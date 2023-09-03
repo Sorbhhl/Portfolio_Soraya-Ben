@@ -1,0 +1,57 @@
+{
+    "projectsFrontEnd" : [
+        { "name": "Cocktail Finder App", "modalType": "forApp", "image":"", "projlink": "https://sorbhhl.github.io/Cocktail_App/",
+        "description": "Cocktail recipe finder made with React, Vite and Chakra UI, consuming the TheCocktailDB API by Soraya Ben."},
+        
+        { "name": "Workout App", "modalType": "forApp", "image": "", "projlink": "https://sorbhhl.github.io/Workout_app/",
+        "description": "Configurable and responsive workout routine on your own home! Made with Vanilla Javascript, HTML, and CSS by Soraya Ben."}
+    ],
+    "projectsAnimation" : [
+        { "name": "2D Animations", "modalType": "forGallery", "image":"https://img.youtube.com/vi/ThK_OUmQwEM/maxresdefault.jpg",
+        "projlink": [
+            { "url": "https://www.youtube.com/embed/ThK_OUmQwEM", "thumbnail": "https://img.youtube.com/vi/ThK_OUmQwEM/maxresdefault.jpg" },
+            { "url": "https://www.youtube.com/embed/-uh1uscWB20", "thumbnail": "https://img.youtube.com/vi/-uh1uscWB20/maxresdefault.jpg" }
+        ],
+        "description": "Some 2D animations made with After Effects by Soraya Ben."},
+
+        { "name": "3D Animations", "modalType": "forGallery", "image":"https://img.youtube.com/vi/9lvsQrsSOMw/maxresdefault.jpg",
+        "projlink": [
+            { "url": "https://www.youtube.com/embed/9lvsQrsSOMw", "thumbnail": "https://img.youtube.com/vi/9lvsQrsSOMw/maxresdefault.jpg" },
+            { "url": "https://www.youtube.com/embed/Z_zoy7gTB5A", "thumbnail": "https://img.youtube.com/vi/Z_zoy7gTB5A/maxresdefault.jpg" },
+            { "url": "https://www.youtube.com/embed/i6qMD_bUbSA", "thumbnail": "https://img.youtube.com/vi/i6qMD_bUbSA/maxresdefault.jpg" }
+        ],
+        "description": "Some 3D animations made with Blender by Soraya Ben."}
+    ],
+
+    "projectsGraphicDesign" : [
+        { "name": "CLCircular's brand image", "modalType": "forApp", "image":"https://www.clcircular.com/wp-content/uploads/2021/02/Logo-clcircular-txtin-350wpx-300x89.jpg",
+        "projlink": "https://www.clcircular.com/",
+        "description": "CLCircular's brand image, visual elements, marketing documentation, webpage and more with Adobe Suite and Wordpress by Soraya Ben."},
+
+        { "name": "Paintings", "modalType": "forGallery", "image":"https://drive.google.com/uc?export=view&id=1Y48m1wpv5FDq0N6RR74udk7kP7rHQPGF",
+        "projlink": [
+            { "url": "https://drive.google.com/uc?export=view&id=1Y48m1wpv5FDq0N6RR74udk7kP7rHQPGF", "thumbnail": "https://drive.google.com/uc?export=view&id=1Y48m1wpv5FDq0N6RR74udk7kP7rHQPGF" },
+            { "url": "https://drive.google.com/uc?export=view&id=1z0JSxKSFXBmOpEyZVsODkOYPT57WAXQu", "thumbnail": "https://drive.google.com/uc?export=view&id=1z0JSxKSFXBmOpEyZVsODkOYPT57WAXQu" },
+            { "url": "https://drive.google.com/uc?export=view&id=19T_DrwRxvdbHr3mXbaMtKgkx0_qDxNVG", "thumbnail": "https://drive.google.com/uc?export=view&id=19T_DrwRxvdbHr3mXbaMtKgkx0_qDxNVG" }
+        ],
+        "description": "Some acrylic paintings by Soraya Ben."},
+
+        { "name": "Illustrations", "modalType": "forGallery", "image":"https://drive.google.com/uc?export=view&id=1Ut1zZD5nZb3TgfXfpT2mdWGhN6uXRJo9",
+        "projlink": [
+            { "url": "https://drive.google.com/uc?export=view&id=1x-rr2S4CD7tuIuU8j18XAjyAKyWwtXds", "thumbnail": "https://drive.google.com/uc?export=view&id=1x-rr2S4CD7tuIuU8j18XAjyAKyWwtXds" },
+            { "url": "https://drive.google.com/uc?export=view&id=1ypyhTrSy8N_0C-IynLd5bjvS91JatpW8", "thumbnail": "https://drive.google.com/uc?export=view&id=1ypyhTrSy8N_0C-IynLd5bjvS91JatpW8" },
+            { "url": "https://drive.google.com/uc?export=view&id=1u-zSRxkwk2_cCebUYcsrc_8f70lwBFDs", "thumbnail": "https://drive.google.com/uc?export=view&id=1u-zSRxkwk2_cCebUYcsrc_8f70lwBFDs" },
+            { "url": "https://drive.google.com/uc?export=view&id=1xZsFsnR3Mql4JWcibwGCGwUwgvqduW52", "thumbnail": "https://drive.google.com/uc?export=view&id=1xZsFsnR3Mql4JWcibwGCGwUwgvqduW52" }
+        ],
+        "description": "Some digital illustrations made with Clip Studio and Adobe Photoshop by Soraya Ben."},
+
+        { "name": "Visual representations", "modalType": "forGallery", "image":"https://drive.google.com/uc?export=view&id=1ziEjjGTcvayQz-5DZGKEdZGhNKMYJJnp",
+        "projlink": [
+            { "url": "https://drive.google.com/uc?export=view&id=1ziEjjGTcvayQz-5DZGKEdZGhNKMYJJnp", "thumbnail": "https://drive.google.com/uc?export=view&id=1ziEjjGTcvayQz-5DZGKEdZGhNKMYJJnp" },
+            { "url": "https://drive.google.com/uc?export=view&id=12gfL-3efqAec4rHNEkHSqyoiGOzwHMTS", "thumbnail": "https://drive.google.com/uc?export=view&id=12gfL-3efqAec4rHNEkHSqyoiGOzwHMTS" },
+            { "url": "https://drive.google.com/uc?export=view&id=1bw8VB62jaFhfpQAiunficPHREBWUpxpJ", "thumbnail": "https://drive.google.com/uc?export=view&id=1bw8VB62jaFhfpQAiunficPHREBWUpxpJ" },
+            { "url": "https://drive.google.com/uc?export=view&id=1cEWekVKE9i90NFc2MnO_Pht-F0gjBdcP", "thumbnail": "https://drive.google.com/uc?export=view&id=1cEWekVKE9i90NFc2MnO_Pht-F0gjBdcP" }
+        ],
+        "description": "Some visual curtain decoration representations made with Adobe Photoshop by Soraya Ben."}
+    ]
+}
