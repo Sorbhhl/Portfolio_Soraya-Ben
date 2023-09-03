@@ -6,8 +6,8 @@ import Modal from "./modal";
 export function CardProj(props) {
 return (
     <Card className={props.image === "" ?
-    "mb-8 w-full justify-center" :
-    "mb-8 w-full justify-center flex flex-col md:flex-row lg:flex-row overflow-hidden"}>
+    "mb-8 w-full justify-center bg-white" :
+    "mb-8 w-full justify-center bg-white flex flex-col md:flex-row lg:flex-row overflow-hidden"}>
         <div className={props.image === "" ?
         "py-4 px-6" :
         "py-4 px-6 md:w-1/2 lg:w-1/2"}
