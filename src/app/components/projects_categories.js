@@ -17,15 +17,18 @@ export default async function ProjectsPage() {
 				</p>
 			</div>
 			<Tabs value="Front End development" className="md:flex lg:flex">
-				<TabsHeader className="flex flex-col md:w-80 lg:w-96 z-0 mb-4">
+				<TabsHeader className="flex flex-col md:w-80 lg:w-96 mb-4"
+				indicatorProps={{
+				className: "bg-zinc-200/50",
+				}}>
 					<Tab value="Front End development">
-						<h2 className="text-lg font-medium mb-2 text-gray-500">Front End development</h2>
+						<h2 className="text-lg font-medium mb-2 text-zinc-500">Front End development</h2>
 					</Tab>
 					<Tab value="Animation">
-						<h2 className="text-lg font-medium mb-2 text-gray-500">Animation</h2>
+						<h2 className="text-lg font-medium mb-2 text-zinc-500">Animation</h2>
 					</Tab>
 					<Tab value="Graphic design">
-						<h2 className="text-lg font-medium mb-2 text-gray-500">Graphic design</h2>
+						<h2 className="text-lg font-medium mb-2 text-zinc-500">Graphic design</h2>
 					</Tab>
 				</TabsHeader>
 				<TabsBody>

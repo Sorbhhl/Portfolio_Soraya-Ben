@@ -33,8 +33,9 @@ export default function Modal(props) {
       <button
       className="flex flex-row items-center mt-4 bg-black text-white uppercase text-sm px-4 py-2 rounded hover:bg-blue-400 active:bg-blue-600 mr-1 mb-1 ease-linear transition-all duration-200"
       type="button"
+      onClick={() => window.open(props.projlink, '_blank')}
       >
-        <a href={props.projlink} target="_blank">Open project</a><ArrowBigRightDash />
+        Open project<ArrowBigRightDash />
       </button>) :(
       <button
         className=" mt-4 bg-black text-white uppercase text-sm px-4 py-2 rounded hover:bg-blue-400 active:bg-blue-600 mr-1 mb-1 ease-linear transition-all duration-200"
