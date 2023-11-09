@@ -1,16 +1,16 @@
 {
     "projectsFrontEnd" : [
         { "name": "Memory Card Game", "modalType": "forApp", "image":"", "projlink": "https://sorbhhl-mcgame-pk.vercel.app/",
-        "description": "Memory Card Game made with <b>React, Next and Tailwind</b> by Soraya Ben."},
+        "description": "Memory Card Game made with React, Next and Tailwind by Soraya Ben."},
 
         { "name": "Cocktail Finder App", "modalType": "forApp", "image":"", "projlink": "https://sorbhhl.github.io/Cocktail_App/",
-        "description": "Cocktail recipe finder made with <b>React, Vite and Chakra UI</b>, consuming the TheCocktailDB API by Soraya Ben."},
+        "description": "Cocktail recipe finder made with React, Vite and Chakra UI, consuming the TheCocktailDB API by Soraya Ben."},
         
         { "name": "Workout App", "modalType": "forApp", "image": "", "projlink": "https://sorbhhl.github.io/Workout_app/",
-        "description": "Configurable and responsive workout routine on your own home! Made with <b>Vanilla Javascript, HTML, and CSS</b> by Soraya Ben."},
+        "description": "Configurable and responsive workout routine on your own home! Made with Vanilla Javascript, HTML, and CSS by Soraya Ben."},
 
         { "name": "Desserts list App", "modalType": "forApp", "image": "", "projlink": "https://sorbhhl.github.io/AngularApp/",
-        "description": "Dessert list App! Made with <b>Angular</b> by Soraya Ben."}
+        "description": "Dessert list App! Made with Angular by Soraya Ben."}
     ],
     "projectsAnimation" : [
         { "name": "2D Animations", "modalType": "forGallery", "image":"https://img.youtube.com/vi/ThK_OUmQwEM/maxresdefault.jpg",
