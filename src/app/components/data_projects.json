@@ -1,5 +1,8 @@
 {
     "projectsFrontEnd" : [
+        { "name": "Memory Card Game", "modalType": "forApp", "image":"", "projlink": "https://sorbhhl-mcgame-pk.vercel.app/",
+        "description": "Memory Card Game made with <b>React, Next and Tailwind</b> by Soraya Ben."},
+
         { "name": "Cocktail Finder App", "modalType": "forApp", "image":"", "projlink": "https://sorbhhl.github.io/Cocktail_App/",
         "description": "Cocktail recipe finder made with <b>React, Vite and Chakra UI</b>, consuming the TheCocktailDB API by Soraya Ben."},
         
