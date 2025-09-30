@@ -4,8 +4,6 @@ import ProjectsPage from "./components/projects_categories";
 import ContactMe from "./components/contact";
 import './globals.css'
 
-//export default MyApp;
-
 export default function Home() {
   return (
     <>

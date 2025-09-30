@@ -13,7 +13,7 @@ export default async function ProjectsPage() {
 					Projects
 				</h2>
 				<p className="mt-4 text-zinc-400">
-					Some of the projects are from work and some are on my own time.
+					Some projects are from work and some are of my own time.
 				</p>
 			</div>
 			<Tabs value="Front End development" className="md:flex lg:flex">

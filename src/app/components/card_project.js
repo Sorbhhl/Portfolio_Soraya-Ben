@@ -12,13 +12,13 @@ return (
         "py-4 px-6" :
         "py-4 px-6 md:w-1/2 lg:w-1/2"}
         >
-            <Typography variant="h6" color="blue-gray" className="mb-2">
+            <Typography variant="h6" color="blue-gray" className="mb-2 text-slate-950">
             {props.title}
             </Typography>
             <Typography color="blue-gray" className="font-bold text-xs uppercase mb-2 text-slate-400">
             {props.category}
             </Typography>
-            <Typography>
+            <Typography className="text-slate-950">
             {props.description}
             </Typography>
             <Modal projlink={props.projlink} modalType={props.modalType} title={props.title} category={props.category}></Modal>
