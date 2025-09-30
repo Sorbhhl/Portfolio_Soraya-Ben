@@ -27,9 +27,10 @@ export default async function ProjectsPage() {
 					<Tab value="Animation">
 						<h2 className="text-lg font-medium mb-2 text-zinc-500">Animation</h2>
 					</Tab>
-					<Tab value="Graphic design">
+					{//Disabled till fixed
+					/*<Tab value="Graphic design">
 						<h2 className="text-lg font-medium mb-2 text-zinc-500">Graphic design</h2>
-					</Tab>
+					</Tab>*/}
 				</TabsHeader>
 				<TabsBody>
 					<TabPanel value="Front End development" className="px-4 py-0">
